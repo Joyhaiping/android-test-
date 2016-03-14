@@ -1,4 +1,4 @@
-给出iOS 开发者设置中的网络模拟详细数据
+1、给出iOS 开发者设置中的网络模拟详细数据
 
 http://www.cnblogs.com/xiaowenhui/p/5244231.html
 
@@ -9,3 +9,5 @@ Edge —— 2G网络
 High Latency DNS —— 高延迟
 Very Bad Network —— 网络状况不稳定
 
+2、使用任意抓包工具对任意app进行抓包 
+fiddler，Charles
