@@ -1,0 +1,11 @@
+给出iOS 开发者设置中的网络模拟详细数据
+
+http://www.cnblogs.com/xiaowenhui/p/5244231.html
+
+100%Loss —— 全丢包
+3G —— 3G
+DSL —— 电话线上网
+Edge —— 2G网络
+High Latency DNS —— 高延迟
+Very Bad Network —— 网络状况不稳定
+
